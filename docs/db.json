@@ -1,0 +1,1259 @@
+{
+    "users": [
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        },
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": "producto-0000000090100",
+            "key": "producto-0000000090100",
+            "value": {
+                "_id": "producto-0000000090100",
+                "_rev": "2-024547d9efe755e7c9cb3d7298bb7e0f",
+                "uuid": "producto-0000000090100",
+                "marca": "SCHNEIDER",
+                "nombre": "Cerveza Botella Schneider x 1 Un",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000000135559",
+            "key": "producto-0000000135559",
+            "value": {
+                "_id": "producto-0000000135559",
+                "_rev": "1-9526b0c155107518166a86592884ac4f",
+                "nombre": "REJILLA COMPACTA COL",
+                "uuid": "producto-0000000135559",
+                "marca": "SIN MARCA",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000000136204",
+            "key": "producto-0000000136204",
+            "value": {
+                "_id": "producto-0000000136204",
+                "_rev": "1-01b52fe46799632a97c20148e4844861",
+                "nombre": "REJ.SECAVAJ.43X55CM",
+                "uuid": "producto-0000000136204",
+                "marca": "SIN MARCA",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000000144278",
+            "key": "producto-0000000144278",
+            "value": {
+                "_id": "producto-0000000144278",
+                "_rev": "1-93172ef9ff02582aa25ce2b3d90dc3f2",
+                "nombre": "REJILLA AUTO 50X50CM",
+                "uuid": "producto-0000000144278",
+                "marca": "SIN MARCA",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000000498104",
+            "key": "producto-0000000498104",
+            "value": {
+                "_id": "producto-0000000498104",
+                "_rev": "1-42c57af221c3c2022f5d9eef8ee7556c",
+                "nombre": "LECHE L.V.ENTERA",
+                "uuid": "producto-0000000498104",
+                "marca": "SIN MARCA",
+                "presentacion": "1.0 lt"
+            }
+        },
+        {
+            "id": "producto-0000000865463",
+            "key": "producto-0000000865463",
+            "value": {
+                "_id": "producto-0000000865463",
+                "_rev": "2-829f9a220279ff6ef4487ff56d7b1a5b",
+                "uuid": "producto-0000000865463",
+                "marca": "SIN MARCA",
+                "nombre": "Trapo Piso Blanco Consorcio x 1 Un",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000000865470",
+            "key": "producto-0000000865470",
+            "value": {
+                "_id": "producto-0000000865470",
+                "_rev": "2-d72b8db68dc68ae042ad082a762449d0",
+                "uuid": "producto-0000000865470",
+                "marca": "SIN MARCA",
+                "nombre": "Trapo Piso Gris Consorcio x 1 Un",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000001034448",
+            "key": "producto-0000001034448",
+            "value": {
+                "_id": "producto-0000001034448",
+                "_rev": "2-4c4fc9c5eacd072f8f8374cf70ca13b2",
+                "uuid": "producto-0000001034448",
+                "marca": "SIN MARCA",
+                "nombre": "Trapo Piso Mil Usos x 1 Un",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000001121100",
+            "key": "producto-0000001121100",
+            "value": {
+                "_id": "producto-0000001121100",
+                "_rev": "1-eadf48a159d1feb4b25375254818736d",
+                "nombre": "PAÃ‘O FRANELA CALIDAD",
+                "uuid": "producto-0000001121100",
+                "marca": "SIN MARCA",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000007048012",
+            "key": "producto-0000007048012",
+            "value": {
+                "_id": "producto-0000007048012",
+                "_rev": "2-6b908743394c7396e1d7ffd2dffb9a3e",
+                "uuid": "producto-0000007048012",
+                "marca": "SALTA",
+                "nombre": "Cerveza Blanca Botella Salta x 1 Un",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000007048029",
+            "key": "producto-0000007048029",
+            "value": {
+                "_id": "producto-0000007048029",
+                "_rev": "1-6e6336a2dc1ddff0afa99d1a3d228d10",
+                "nombre": "ESQUELETO CERV BLANC",
+                "uuid": "producto-0000007048029",
+                "marca": "SALTA",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000007048036",
+            "key": "producto-0000007048036",
+            "value": {
+                "_id": "producto-0000007048036",
+                "_rev": "2-31769500d5e5da5b8d82627a3e5c9501",
+                "uuid": "producto-0000007048036",
+                "marca": "SALTA",
+                "nombre": "Cerveza Negra Botella Salta x 1 Un",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000007048043",
+            "key": "producto-0000007048043",
+            "value": {
+                "_id": "producto-0000007048043",
+                "_rev": "1-3b5c686fcf957cb7f51a3ba005eb5d49",
+                "nombre": "ESQUELETO CERV NEGRA",
+                "uuid": "producto-0000007048043",
+                "marca": "SALTA",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000007048074",
+            "key": "producto-0000007048074",
+            "value": {
+                "_id": "producto-0000007048074",
+                "_rev": "1-94994990613adbf4ba21a43da7b2580d",
+                "nombre": "ENVASE CERVEZA 1890",
+                "uuid": "producto-0000007048074",
+                "marca": "QUILM",
+                "presentacion": "1.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000007048081",
+            "key": "producto-0000007048081",
+            "value": {
+                "_id": "producto-0000007048081",
+                "_rev": "1-66cf5800a98de5e3d981ee8162649af3",
+                "nombre": "ESQUELETO CERV 1890",
+                "uuid": "producto-0000007048081",
+                "marca": "QUILM",
+                "presentacion": "1.0 ud"
+            }
+        },
+        {
+            "id": "producto-0000040084107",
+            "key": "producto-0000040084107",
+            "value": {
+                "_id": "producto-0000040084107",
+                "_rev": "1-1f3ca51255be9146eb7182144a010838",
+                "nombre": "Huevo de Chocolate Kinder con Sorpresa Caja x 20 Gr",
+                "uuid": "producto-0000040084107",
+                "marca": "KINDER",
+                "presentacion": "20.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000042277132",
+            "key": "producto-0000042277132",
+            "value": {
+                "_id": "producto-0000042277132",
+                "_rev": "1-6688139b116a9259bed0a727a80d9524",
+                "nombre": "Desmaquillador de Ojos Bifasico en Botella Nivea x 125 Ml",
+                "uuid": "producto-0000042277132",
+                "marca": "NIVEA",
+                "presentacion": "125.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000042300083",
+            "key": "producto-0000042300083",
+            "value": {
+                "_id": "producto-0000042300083",
+                "_rev": "1-26d009f3b078cb8f9eddbbcc9e8ff125",
+                "nombre": "Crema Facial Cuidado Nivea x 100 Ml",
+                "uuid": "producto-0000042300083",
+                "marca": "NIVEA",
+                "presentacion": "100.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000075024956",
+            "key": "producto-0000075024956",
+            "value": {
+                "_id": "producto-0000075024956",
+                "_rev": "1-5aedc456261b322b57e1e5d0a5c4545f",
+                "nombre": "Desodorante Antitranspirante en Barra V8 Rexona x 50 Gr",
+                "uuid": "producto-0000075024956",
+                "marca": "REXONA",
+                "presentacion": "50.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000075026455",
+            "key": "producto-0000075026455",
+            "value": {
+                "_id": "producto-0000075026455",
+                "_rev": "1-3831e22a23ab6280d2d595cc66745b64",
+                "nombre": "Desodorante Stick Nutritivo Rexona x 50 Gr",
+                "uuid": "producto-0000075026455",
+                "marca": "REXONA",
+                "presentacion": "50.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000075027513",
+            "key": "producto-0000075027513",
+            "value": {
+                "_id": "producto-0000075027513",
+                "_rev": "1-313e615db5d7f8bf4e576abaefda9785",
+                "nombre": "Desodorante Original Dove x 50 Gr",
+                "uuid": "producto-0000075027513",
+                "marca": "DOVE",
+                "presentacion": "50.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000075032715",
+            "key": "producto-0000075032715",
+            "value": {
+                "_id": "producto-0000075032715",
+                "_rev": "1-80061bb65fb9cf193db50620b2bf0a5a",
+                "nombre": "Cerveza Corona x 335 Cc",
+                "uuid": "producto-0000075032715",
+                "marca": "CORONA",
+                "presentacion": "355.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077900302",
+            "key": "producto-0000077900302",
+            "value": {
+                "_id": "producto-0000077900302",
+                "_rev": "1-afdb93babf4afd1f38b824decc39b0a5",
+                "nombre": "Repelente Crema Off x 60 Gr",
+                "uuid": "producto-0000077900302",
+                "marca": "OFF",
+                "presentacion": "60.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077900845",
+            "key": "producto-0000077900845",
+            "value": {
+                "_id": "producto-0000077900845",
+                "_rev": "1-1a43ea21962e6afb3008d7f06556e627",
+                "nombre": "Galletitas BanÌƒadas con Chocolate con Relleno de Limon Terrabusi Tita x 18 Gr",
+                "uuid": "producto-0000077900845",
+                "marca": "TITA",
+                "presentacion": "18.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077903501",
+            "key": "producto-0000077903501",
+            "value": {
+                "_id": "producto-0000077903501",
+                "_rev": "1-6b8fbf12a0a557bd79c93b4bd1780a42",
+                "nombre": "Obleas Rellena Bagley Opera x 55 Gr",
+                "uuid": "producto-0000077903501",
+                "marca": "OPERA",
+                "presentacion": "55.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077903518",
+            "key": "producto-0000077903518",
+            "value": {
+                "_id": "producto-0000077903518",
+                "_rev": "1-417d486ba91b12d33f4db495ec30620f",
+                "nombre": "Obleas Rellena Bagley Opera x 92 Gr",
+                "uuid": "producto-0000077903518",
+                "marca": "OPERA",
+                "presentacion": "92.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077903785",
+            "key": "producto-0000077903785",
+            "value": {
+                "_id": "producto-0000077903785",
+                "_rev": "1-7f000a90ded884b7170ce5c9b30df7bd",
+                "nombre": "Alfajor Mousse Triple Milka x 55 Gr",
+                "uuid": "producto-0000077903785",
+                "marca": "MILKA",
+                "presentacion": "55.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077903792",
+            "key": "producto-0000077903792",
+            "value": {
+                "_id": "producto-0000077903792",
+                "_rev": "1-7516e6ded1f128390c2f045f2390096e",
+                "nombre": "Alfajor Triple Dulce de Leche Terrabusi x 70 Gr",
+                "uuid": "producto-0000077903792",
+                "marca": "TERRABUSI",
+                "presentacion": "70.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077906106",
+            "key": "producto-0000077906106",
+            "value": {
+                "_id": "producto-0000077906106",
+                "_rev": "2-2dd057b4237899182afbbce539469d2a",
+                "uuid": "producto-0000077906106",
+                "marca": "CRIADORES",
+                "nombre": "Whisky Criadores En Petaca x 195 Cc",
+                "presentacion": "195.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077912732",
+            "key": "producto-0000077912732",
+            "value": {
+                "_id": "producto-0000077912732",
+                "_rev": "1-102e8be9b8c3b1fc4a7a8301214b3003",
+                "nombre": "Caramelos Halls Cherry Paquete x 28 Gr",
+                "uuid": "producto-0000077912732",
+                "marca": "HALLS",
+                "presentacion": "28.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077913692",
+            "key": "producto-0000077913692",
+            "value": {
+                "_id": "producto-0000077913692",
+                "_rev": "1-53b1745e61c708773db3505ff35b72c6",
+                "nombre": "Licor Crema de Dulce de Leche Tres Plumas x 200 Cc",
+                "uuid": "producto-0000077913692",
+                "marca": "TRES PLUMAS",
+                "presentacion": "200.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077914217",
+            "key": "producto-0000077914217",
+            "value": {
+                "_id": "producto-0000077914217",
+                "_rev": "1-2fb2da53dd299aa80ddb49e97741c741",
+                "nombre": "Chocolate en Tableta Shot x 35 Gr",
+                "uuid": "producto-0000077914217",
+                "marca": "SHOT",
+                "presentacion": "35.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077916389",
+            "key": "producto-0000077916389",
+            "value": {
+                "_id": "producto-0000077916389",
+                "_rev": "1-2e58fef41e11ca299f5168533ea57883",
+                "nombre": "Chicles Topline Fruta Paquete x 6.7 Gr",
+                "uuid": "producto-0000077916389",
+                "marca": "TOPLINE",
+                "presentacion": "6.7 gr"
+            }
+        },
+        {
+            "id": "producto-0000077919373",
+            "key": "producto-0000077919373",
+            "value": {
+                "_id": "producto-0000077919373",
+                "_rev": "1-ee3ca1e1962ea1da3fe13d400b93302e",
+                "nombre": "Bombon de Leche Suelto Bon o Bon x 1 Un",
+                "uuid": "producto-0000077919373",
+                "marca": "BON O BON",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000077921932",
+            "key": "producto-0000077921932",
+            "value": {
+                "_id": "producto-0000077921932",
+                "_rev": "1-3a764ea9bd29ed29c4d1f23e17c9dac4",
+                "nombre": "Chocolate Leche M Joy Milka x 30 Gr",
+                "uuid": "producto-0000077921932",
+                "marca": "MILKA",
+                "presentacion": "30.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077922120",
+            "key": "producto-0000077922120",
+            "value": {
+                "_id": "producto-0000077922120",
+                "_rev": "1-50210ddc4980fbebb7caa7176d9dffac",
+                "nombre": "Chocolate con Mani Block Cofler x 110 Gr",
+                "uuid": "producto-0000077922120",
+                "marca": "COFLER",
+                "presentacion": "110.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077922656",
+            "key": "producto-0000077922656",
+            "value": {
+                "_id": "producto-0000077922656",
+                "_rev": "1-56e656439bc0c9a15ec3f4c5d5d497c7",
+                "nombre": "Caramelos Mentho Plus Cherry 9 x Gr",
+                "uuid": "producto-0000077922656",
+                "marca": "MENTO PLUS",
+                "presentacion": "9.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077922687",
+            "key": "producto-0000077922687",
+            "value": {
+                "_id": "producto-0000077922687",
+                "_rev": "1-d71423a97cb0edf5c2bc30fb03570af6",
+                "nombre": "Caramelos Miel Menthoplus x 30.6 Gr",
+                "uuid": "producto-0000077922687",
+                "marca": "MENTOPLUS",
+                "presentacion": "30.6 gr"
+            }
+        },
+        {
+            "id": "producto-0000077924841",
+            "key": "producto-0000077924841",
+            "value": {
+                "_id": "producto-0000077924841",
+                "_rev": "1-1eb85daa10103ba5bd523cc9a2221f4f",
+                "nombre": "Desodorante Roll On Crystal Rexona x 50 Ml",
+                "uuid": "producto-0000077924841",
+                "marca": "REXONA",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077926494",
+            "key": "producto-0000077926494",
+            "value": {
+                "_id": "producto-0000077926494",
+                "_rev": "1-d99c202541ffe44c13e499e2dde8a0d3",
+                "nombre": "PanÌƒuelos Descartables Carrefour x 1 Un",
+                "uuid": "producto-0000077926494",
+                "marca": "CARREFOUR",
+                "presentacion": "1.0 un"
+            }
+        },
+        {
+            "id": "producto-0000077927361",
+            "key": "producto-0000077927361",
+            "value": {
+                "_id": "producto-0000077927361",
+                "_rev": "1-26332ee7a102a54ee2832c1151630228",
+                "nombre": "Bocadito de Dulce de Leche Light Vauquita x 22 Gr",
+                "uuid": "producto-0000077927361",
+                "marca": "VAUQUITA",
+                "presentacion": "22.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077928566",
+            "key": "producto-0000077928566",
+            "value": {
+                "_id": "producto-0000077928566",
+                "_rev": "1-1653749569198dfc1bc61225c5167297",
+                "nombre": "Desodorante Nutritive Roll On Rexona x 50 Ml",
+                "uuid": "producto-0000077928566",
+                "marca": "REXONA",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077931764",
+            "key": "producto-0000077931764",
+            "value": {
+                "_id": "producto-0000077931764",
+                "_rev": "1-869e1f7bef63037f9149b8ddc11c144f",
+                "nombre": "Chicles Topline Seven Menta Paquete x 14 Gr",
+                "uuid": "producto-0000077931764",
+                "marca": "TOPLINE",
+                "presentacion": "14.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077933904",
+            "key": "producto-0000077933904",
+            "value": {
+                "_id": "producto-0000077933904",
+                "_rev": "1-fb678a948a2fa77a8b029ccef3846511",
+                "nombre": "Caramelos Strong Mint Paquete Halls x 28 Gr",
+                "uuid": "producto-0000077933904",
+                "marca": "HALLS",
+                "presentacion": "28.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077933911",
+            "key": "producto-0000077933911",
+            "value": {
+                "_id": "producto-0000077933911",
+                "_rev": "1-cc5fa87e04565d5efa2e03dddd165296",
+                "nombre": "Caramelos Mentol Paquete Halls x 28 Gr",
+                "uuid": "producto-0000077933911",
+                "marca": "HALLS",
+                "presentacion": "28.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077934499",
+            "key": "producto-0000077934499",
+            "value": {
+                "_id": "producto-0000077934499",
+                "_rev": "1-9981b79cbcae255adb789b42e33de0b2",
+                "nombre": "Alfajor con BanÌƒo de Chocolate Cachafaz x 60 Gr",
+                "uuid": "producto-0000077934499",
+                "marca": "CACHAFAZ",
+                "presentacion": "60.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077939234",
+            "key": "producto-0000077939234",
+            "value": {
+                "_id": "producto-0000077939234",
+                "_rev": "1-c5e4904d9e55e1daa798508918924e72",
+                "nombre": "Alfajor Clasico Terrabusi x 50 Gr",
+                "uuid": "producto-0000077939234",
+                "marca": "TERRABUSI",
+                "presentacion": "50.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077939753",
+            "key": "producto-0000077939753",
+            "value": {
+                "_id": "producto-0000077939753",
+                "_rev": "1-fd213a7d28e3ac99daaa61f7162870eb",
+                "nombre": "Chicle Seven Strong Top Line 14,7 x Gr",
+                "uuid": "producto-0000077939753",
+                "marca": "TOP LINE",
+                "presentacion": "14.7 gr"
+            }
+        },
+        {
+            "id": "producto-0000077939937",
+            "key": "producto-0000077939937",
+            "value": {
+                "_id": "producto-0000077939937",
+                "_rev": "1-2529823a80011416af835a50f10a5a10",
+                "nombre": "Desodorante Roll On Invisible Plusbelle x 50 Cc",
+                "uuid": "producto-0000077939937",
+                "marca": "PLUSBELLE",
+                "presentacion": "50.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077940131",
+            "key": "producto-0000077940131",
+            "value": {
+                "_id": "producto-0000077940131",
+                "_rev": "1-64b0892e7a14aaa77f878c9fb4034a0f",
+                "nombre": "Turron Arcor x 25 Gr",
+                "uuid": "producto-0000077940131",
+                "marca": "ARCOR",
+                "presentacion": "25.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077940322",
+            "key": "producto-0000077940322",
+            "value": {
+                "_id": "producto-0000077940322",
+                "_rev": "1-8c28e9e60fe243a42ef91ff54fbb32ae",
+                "nombre": "Gelatina Sabor Frutilla Shimy Sancor x 110 Gr",
+                "uuid": "producto-0000077940322",
+                "marca": "SHIMY",
+                "presentacion": "110.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077940339",
+            "key": "producto-0000077940339",
+            "value": {
+                "_id": "producto-0000077940339",
+                "_rev": "1-86700b8d16987c5a9e57e994b95ae2d7",
+                "nombre": "Gelatina Sabor Manzana Shimy Sancor x 110 Gr",
+                "uuid": "producto-0000077940339",
+                "marca": "SHIMY",
+                "presentacion": "110.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077940704",
+            "key": "producto-0000077940704",
+            "value": {
+                "_id": "producto-0000077940704",
+                "_rev": "1-37ff64942a3d4cc0eeea39630c0db6ba",
+                "nombre": "Desodorante en Crema en Pote Odorono Rexona x 60 Gr",
+                "uuid": "producto-0000077940704",
+                "marca": "REXONA",
+                "presentacion": "60.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077941824",
+            "key": "producto-0000077941824",
+            "value": {
+                "_id": "producto-0000077941824",
+                "_rev": "1-1c3d1b7a6e3458f1795e5eafa34a01bd",
+                "nombre": "Desodorante Original Dove x 85 Ml",
+                "uuid": "producto-0000077941824",
+                "marca": "DOVE",
+                "presentacion": "85.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077941879",
+            "key": "producto-0000077941879",
+            "value": {
+                "_id": "producto-0000077941879",
+                "_rev": "1-06a50ac4d1a17495d8e813f6bc834115",
+                "nombre": "Desodorante Anititranspirante Roll On Sensitive Rexona x 85 Ml",
+                "uuid": "producto-0000077941879",
+                "marca": "REXONA",
+                "presentacion": "85.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077941923",
+            "key": "producto-0000077941923",
+            "value": {
+                "_id": "producto-0000077941923",
+                "_rev": "1-8ee0d74d451ba3f9af7c63e8d94b795c",
+                "nombre": "Desodorante Antitranspirante Roll On Invisible Rexona x 50 Gr",
+                "uuid": "producto-0000077941923",
+                "marca": "REXONA",
+                "presentacion": "50.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077941930",
+            "key": "producto-0000077941930",
+            "value": {
+                "_id": "producto-0000077941930",
+                "_rev": "1-3a95a6fa7728e1e77cc7046f3018a7bd",
+                "nombre": "Desodorante Antitranspirante Roll On V8 Rexona x 50 Ml",
+                "uuid": "producto-0000077941930",
+                "marca": "REXONA",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077942227",
+            "key": "producto-0000077942227",
+            "value": {
+                "_id": "producto-0000077942227",
+                "_rev": "1-4d3d73bf783a0eda23625ba122e6fd64",
+                "nombre": "Desodorante Cotton Rexona x 85 Ml",
+                "uuid": "producto-0000077942227",
+                "marca": "REXONA",
+                "presentacion": "85.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077942289",
+            "key": "producto-0000077942289",
+            "value": {
+                "_id": "producto-0000077942289",
+                "_rev": "1-31a7865b783610c96b82b0aa904e3815",
+                "nombre": "Antitranspirante Comprimido Active Emotion Rexona x 85 Ml",
+                "uuid": "producto-0000077942289",
+                "marca": "REXONA",
+                "presentacion": "85.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077942371",
+            "key": "producto-0000077942371",
+            "value": {
+                "_id": "producto-0000077942371",
+                "_rev": "1-9356a2c243855b22a6c109ab299d5f21",
+                "nombre": "Chicles Menta Blister Beldent x 10 Gr",
+                "uuid": "producto-0000077942371",
+                "marca": "BELDENT",
+                "presentacion": "10.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077942388",
+            "key": "producto-0000077942388",
+            "value": {
+                "_id": "producto-0000077942388",
+                "_rev": "1-e880701fa08779f08c919546087cc594",
+                "nombre": "Chicles Menta Blister Beldent x 10 Gr",
+                "uuid": "producto-0000077942388",
+                "marca": "BELDENT",
+                "presentacion": "10.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077944276",
+            "key": "producto-0000077944276",
+            "value": {
+                "_id": "producto-0000077944276",
+                "_rev": "1-015e678084ef430deb8c1cf023e4adc2",
+                "nombre": "Chicles Globo Blister Beldent x 10 Gr",
+                "uuid": "producto-0000077944276",
+                "marca": "BELDENT",
+                "presentacion": "10.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077946805",
+            "key": "producto-0000077946805",
+            "value": {
+                "_id": "producto-0000077946805",
+                "_rev": "1-d1141d142c05332c926b1dfb676a4e3e",
+                "nombre": "Mentho-Plus Free Crerry Arcor x 27 Gr",
+                "uuid": "producto-0000077946805",
+                "marca": "MENTHOPLUS",
+                "presentacion": "27.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077946829",
+            "key": "producto-0000077946829",
+            "value": {
+                "_id": "producto-0000077946829",
+                "_rev": "1-ac26ebdb15ff9f6881808a1a7375e72a",
+                "nombre": "Caramelos Sabor Mentol Zero Menthoplus x 27,3",
+                "uuid": "producto-0000077946829",
+                "marca": "MENTHOPLUS",
+                "presentacion": "27.3 gr"
+            }
+        },
+        {
+            "id": "producto-0000077951113",
+            "key": "producto-0000077951113",
+            "value": {
+                "_id": "producto-0000077951113",
+                "_rev": "1-ebcdeedc458a651a9daf9187fde19c95",
+                "nombre": "Chicles Seven Frutilla Paquete Top Line x 14.7 Gr",
+                "uuid": "producto-0000077951113",
+                "marca": "TOP LINE",
+                "presentacion": "14.7 gr"
+            }
+        },
+        {
+            "id": "producto-0000077953063",
+            "key": "producto-0000077953063",
+            "value": {
+                "_id": "producto-0000077953063",
+                "_rev": "1-a29c95afab4eefd8b02f997d387615c1",
+                "nombre": "Postre Sabor Dulce de Leche Danette Pack 2 Un x 190 Gr",
+                "uuid": "producto-0000077953063",
+                "marca": "DANETTE",
+                "presentacion": "190.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077953070",
+            "key": "producto-0000077953070",
+            "value": {
+                "_id": "producto-0000077953070",
+                "_rev": "1-d5d4eb75c7cb5befdb7d91ce26877ef3",
+                "nombre": "Postre Sabor Chocolate Danette Pack 2 Un x 190 Gr",
+                "uuid": "producto-0000077953070",
+                "marca": "DANETTE",
+                "presentacion": "190.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077953124",
+            "key": "producto-0000077953124",
+            "value": {
+                "_id": "producto-0000077953124",
+                "_rev": "1-aeae7ea2620c1cba1fca06a8d9335ead",
+                "nombre": "Chocolate con Mani Block Cofler x 38 Gr",
+                "uuid": "producto-0000077953124",
+                "marca": "COFLER",
+                "presentacion": "38.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077956262",
+            "key": "producto-0000077956262",
+            "value": {
+                "_id": "producto-0000077956262",
+                "_rev": "1-a60a9befce68e24147ee63c55619645a",
+                "nombre": "Sal Fina en Salero Celusal x 250 Gr",
+                "uuid": "producto-0000077956262",
+                "marca": "CELUSAL",
+                "presentacion": "250.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077958945",
+            "key": "producto-0000077958945",
+            "value": {
+                "_id": "producto-0000077958945",
+                "_rev": "1-e397cf015838aa2de4d4ea8b9b9104a9",
+                "nombre": "Pomada para zapatos Negro Lata Wassington x 60 Gr",
+                "uuid": "producto-0000077958945",
+                "marca": "WASSINGTON",
+                "presentacion": "60.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077958952",
+            "key": "producto-0000077958952",
+            "value": {
+                "_id": "producto-0000077958952",
+                "_rev": "1-bc2bc69663a7dd9f6edb8a1e2b1f1ed9",
+                "nombre": "Pomada para zapatos Marron en Lata Wassington x 60 Gr",
+                "uuid": "producto-0000077958952",
+                "marca": "WASSINGTON",
+                "presentacion": "60.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077958969",
+            "key": "producto-0000077958969",
+            "value": {
+                "_id": "producto-0000077958969",
+                "_rev": "1-965624dc4bd1a629a67e199f21587a90",
+                "nombre": "Pomada para zapatos en lata Wassington x 60 Cc",
+                "uuid": "producto-0000077958969",
+                "marca": "WASSINGTON",
+                "presentacion": "60.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077962959",
+            "key": "producto-0000077962959",
+            "value": {
+                "_id": "producto-0000077962959",
+                "_rev": "1-259b4442ece1919a17244f0582638c87",
+                "nombre": "Flan Sabor Vainilla con Caramelo Sancorito x 110 Gr",
+                "uuid": "producto-0000077962959",
+                "marca": "SANCORITO",
+                "presentacion": "110.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077965233",
+            "key": "producto-0000077965233",
+            "value": {
+                "_id": "producto-0000077965233",
+                "_rev": "1-24a39b0d45351f86ffa09c06f1f33ef6",
+                "nombre": "Semillas de Girasol Pipas x 18 Gr",
+                "uuid": "producto-0000077965233",
+                "marca": "PIPAS",
+                "presentacion": "18.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077968487",
+            "key": "producto-0000077968487",
+            "value": {
+                "_id": "producto-0000077968487",
+                "_rev": "1-e618849d4188f78b4d908d43fb63165d",
+                "nombre": "QUITAESMALTE FORTALECEDOR UNIQUIT X 120 CC",
+                "uuid": "producto-0000077968487",
+                "marca": "UNIQUIT",
+                "presentacion": "1.0 uni"
+            }
+        },
+        {
+            "id": "producto-0000077970701",
+            "key": "producto-0000077970701",
+            "value": {
+                "_id": "producto-0000077970701",
+                "_rev": "1-042006aac16337c6cbcfa79c99ce8410",
+                "nombre": "Tableta de Chocolate sin Azucar Libre de Gluten Mapsa X 100 Gr",
+                "uuid": "producto-0000077970701",
+                "marca": "MAPSA",
+                "presentacion": "100.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077971340",
+            "key": "producto-0000077971340",
+            "value": {
+                "_id": "producto-0000077971340",
+                "_rev": "1-a5a08204449b15d7a3982d59ce011f64",
+                "nombre": "Tableta de Chocolate con Mani Biznikke x 30 Gr",
+                "uuid": "producto-0000077971340",
+                "marca": "BIZNIKKE",
+                "presentacion": "30.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077976109",
+            "key": "producto-0000077976109",
+            "value": {
+                "_id": "producto-0000077976109",
+                "_rev": "1-087f2757de1d6edb40f186b84e192905",
+                "nombre": "Tableta de Dulce de Leche Vauquita Tableta x 25 Gr",
+                "uuid": "producto-0000077976109",
+                "marca": "VAUQUITA",
+                "presentacion": "25.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077980212",
+            "key": "producto-0000077980212",
+            "value": {
+                "_id": "producto-0000077980212",
+                "_rev": "1-e73fa57dae174c580bc15953c9395e77",
+                "nombre": "Alfajor con BanÌƒo de Chocolate Blanco Guaymallen x 38 Gr",
+                "uuid": "producto-0000077980212",
+                "marca": "GUAYMALLEN",
+                "presentacion": "38.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077980229",
+            "key": "producto-0000077980229",
+            "value": {
+                "_id": "producto-0000077980229",
+                "_rev": "1-09a8e60b1493173d8c7c5b72722e613a",
+                "nombre": "Alfajor con BanÌƒo de Chocolate Guaymallen x 38 Gr",
+                "uuid": "producto-0000077980229",
+                "marca": "GUAYMALLEN",
+                "presentacion": "38.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077990112",
+            "key": "producto-0000077990112",
+            "value": {
+                "_id": "producto-0000077990112",
+                "_rev": "1-c20b7941013dce9192fc158e474765c4",
+                "nombre": "Cafe al ConÌƒac Tres Plumas x 200 Cc",
+                "uuid": "producto-0000077990112",
+                "marca": "TRES PLUMAS",
+                "presentacion": "200.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000077991904",
+            "key": "producto-0000077991904",
+            "value": {
+                "_id": "producto-0000077991904",
+                "_rev": "1-9ced88587600c240d3a7f88f8d649e52",
+                "nombre": "Cafe al Whisky Tres Plumas x 200 Cc",
+                "uuid": "producto-0000077991904",
+                "marca": "TRES PLUMAS",
+                "presentacion": "200.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077991911",
+            "key": "producto-0000077991911",
+            "value": {
+                "_id": "producto-0000077991911",
+                "_rev": "1-570ed86731f8408dfab8c3df8e4db8d8",
+                "nombre": "Cafe al Ron Tres Plumas x 200 Cc",
+                "uuid": "producto-0000077991911",
+                "marca": "TRES PLUMAS",
+                "presentacion": "200.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077991973",
+            "key": "producto-0000077991973",
+            "value": {
+                "_id": "producto-0000077991973",
+                "_rev": "1-638e6114d0b8f9e4aca1b67956b26856",
+                "nombre": "Repelente Crema Off x 60 Gr",
+                "uuid": "producto-0000077991973",
+                "marca": "OFF",
+                "presentacion": "60.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077992246",
+            "key": "producto-0000077992246",
+            "value": {
+                "_id": "producto-0000077992246",
+                "_rev": "1-acc0c182adac697bb47a179996601302",
+                "nombre": "Licor de Chocolate Tres Plumas x 200 Cc",
+                "uuid": "producto-0000077992246",
+                "marca": "TRES PLUMAS",
+                "presentacion": "200.0 cc"
+            }
+        },
+        {
+            "id": "producto-0000077995407",
+            "key": "producto-0000077995407",
+            "value": {
+                "_id": "producto-0000077995407",
+                "_rev": "1-1696dee1c49b8ac16454b401708cb753",
+                "nombre": "Barra de Cereales Light con Yogur Sabor Frutilla y Fresa Cereal Mix x 28 Gr",
+                "uuid": "producto-0000077995407",
+                "marca": "CEREAL MIX",
+                "presentacion": "28.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000077995681",
+            "key": "producto-0000077995681",
+            "value": {
+                "_id": "producto-0000077995681",
+                "_rev": "1-b52c08287c6486f990b02975e8eefd16",
+                "nombre": "Obleas con Relleno de Limon Terrabusi Rhodesia x 25 Gr",
+                "uuid": "producto-0000077995681",
+                "marca": "RHODESIA",
+                "presentacion": "25.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000078600010",
+            "key": "producto-0000078600010",
+            "value": {
+                "_id": "producto-0000078600010",
+                "_rev": "1-9c88ad1ed8743bd4829e42ee0a756134",
+                "nombre": "Pastillas Tic Tac Menta Caja x 16 Gr",
+                "uuid": "producto-0000078600010",
+                "marca": "TIC TAC",
+                "presentacion": "16.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000078600027",
+            "key": "producto-0000078600027",
+            "value": {
+                "_id": "producto-0000078600027",
+                "_rev": "1-e8f9981dc00767664ac611e8da9d19e9",
+                "nombre": "Pastillas Tic Tac Naranja Caja x 16 Gr",
+                "uuid": "producto-0000078600027",
+                "marca": "TIC TAC",
+                "presentacion": "16.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000078605831",
+            "key": "producto-0000078605831",
+            "value": {
+                "_id": "producto-0000078605831",
+                "_rev": "1-ea9f452e66800de3cd7fb3d74bacb016",
+                "nombre": "Pastillas Tic Tac Dupla de Frutilla Paquete x 16 Gr",
+                "uuid": "producto-0000078605831",
+                "marca": "TIC TAC",
+                "presentacion": "16.0 gr"
+            }
+        },
+        {
+            "id": "producto-0000078909434",
+            "key": "producto-0000078909434",
+            "value": {
+                "_id": "producto-0000078909434",
+                "_rev": "1-216eeae0ee6f95c2a39146f7f964c1a1",
+                "nombre": "Bombones Chocolate Avellana Paquete Ferrero Rocher x 37.5 Gr",
+                "uuid": "producto-0000078909434",
+                "marca": "FERRERO ROCHER",
+                "presentacion": "37.5 gr"
+            }
+        },
+        {
+            "id": "producto-0000078916401",
+            "key": "producto-0000078916401",
+            "value": {
+                "_id": "producto-0000078916401",
+                "_rev": "1-81c3bbd75752c31ca268f5085faafe47",
+                "nombre": "Caramelos Masticables Sabor Fruta Mentos x 29,7 Gr",
+                "uuid": "producto-0000078916401",
+                "marca": "MENTOS",
+                "presentacion": "29.7 gr"
+            }
+        },
+        {
+            "id": "producto-0000078916418",
+            "key": "producto-0000078916418",
+            "value": {
+                "_id": "producto-0000078916418",
+                "_rev": "1-86daebd98468853ba42e9b3b21512238",
+                "nombre": "Caramelos Masticables Sabor Menta Mentos x 29,7 Gr",
+                "uuid": "producto-0000078916418",
+                "marca": "MENTOS",
+                "presentacion": "29.7 gr"
+            }
+        },
+        {
+            "id": "producto-0000078923355",
+            "key": "producto-0000078923355",
+            "value": {
+                "_id": "producto-0000078923355",
+                "_rev": "1-5398b5f25b03ef4233d7c5021bf2c565",
+                "nombre": "Desodorante Roll On Women Nutritive Rexona x 50 Ml",
+                "uuid": "producto-0000078923355",
+                "marca": "REXONA",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000078923454",
+            "key": "producto-0000078923454",
+            "value": {
+                "_id": "producto-0000078923454",
+                "_rev": "1-96672aa975abc30665442f6053924279",
+                "nombre": "Desodorante Roll On Men V8 Rexona x 50 Ml",
+                "uuid": "producto-0000078923454",
+                "marca": "REXONA",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000078924468",
+            "key": "producto-0000078924468",
+            "value": {
+                "_id": "producto-0000078924468",
+                "_rev": "1-24662e2793818c292781b871080fd62a",
+                "nombre": "Desodorante Antitranspirante Roll On Original Dove x 50 Ml",
+                "uuid": "producto-0000078924468",
+                "marca": "DOVE",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000078924529",
+            "key": "producto-0000078924529",
+            "value": {
+                "_id": "producto-0000078924529",
+                "_rev": "1-3496c05f12f4be3cb39f4ce61f0f9cc9",
+                "nombre": "Desodorante Roll On Invisible Dove x 50 Ml",
+                "uuid": "producto-0000078924529",
+                "marca": "DOVE",
+                "presentacion": "50.0 ml"
+            }
+        },
+        {
+            "id": "producto-0000078925281",
+            "key": "producto-0000078925281",
+            "value": {
+                "_id": "producto-0000078925281",
+                "_rev": "1-d0d3d777fe42d761802e394d23619cc6",
+                "nombre": "Caramelos Mastricables Sabor Frutilla Mentos x 29,7 Gr",
+                "uuid": "producto-0000078925281",
+                "marca": "MENTOS",
+                "presentacion": "29.7 gr"
+            }
+        }
+    ]
+}
