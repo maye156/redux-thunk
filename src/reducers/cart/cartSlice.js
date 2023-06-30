@@ -10,11 +10,11 @@ export const cartSlice = createSlice ({
     initialState: estadoIncial,
     reducers:{
         incrementar:(state,action)=>{
-            state.totalCont=totalCont+1;
+            state.totalCont +=1;
             state.productsList=[...state.productsList,action.payload]; 
            },
            decrementar:(state,action)=>{
-            state.totalCont=totalCont-1;
+            state.totalCont=state.totalCont-1;
             state.productsList=state.productsList.filter(product=>product.id!==action.payload.id); 
            },   
     },

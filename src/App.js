@@ -10,12 +10,12 @@ function App() {
   const { email, fullName } = useSelector(state => state.user)
 
   return (
-    <BrowserRouter>
+    
     <Routes>
       <Route path="/" element={<Index />} />
     <Route path="/home" element={<Home />} />
     </Routes>
-    </BrowserRouter>
+ 
   );
 }
 
