@@ -8,7 +8,7 @@ import Cart from "./pages/cart";
 
 function App() {
  
-  const {totalCount} = useSelector(state=> state.cart);
+  const {totalCont} = useSelector(state=> state.cart);
   return (
     <div className="container">
       <div className="d-flex py-4">
@@ -17,7 +17,7 @@ function App() {
         <div className="ms-auto">
           <Link className="btn btn-primary position-relative" to="/cart"> Cart
             <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-              {totalCount}
+              {totalCont}
               <span className="visually-hidden">products in cart</span>
             </span>
           </Link>
