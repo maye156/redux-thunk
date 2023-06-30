@@ -9,22 +9,19 @@ export const cartSlice = createSlice ({
     name:"cart",
     initialState: estadoIncial,
     reducers:{
-        setUser:(state,action)=>{
-            state.email=action.payload.email;
-            state.fullname=action.payload.fullname;
-            state.token=action.payload.token; 
+        incrementar:(state,action)=>{
+            state.totalCont=totalCont+1;
+            state.productsList=[...state.productsList,action.payload]; 
            },
-     unSetUser:(state,action)=>{
-            state.email="";
-            state.fullname="";
-            state.token="";
-           }
+           decrementar:(state,action)=>{
+            state.totalCont=totalCont-1;
+            state.productsList=state.productsList.filter(product=>product.id!==action.payload.id); 
+           },   
     },
 })
 export const  {
     incrementar,
     decrementar,
-    incrementarPorCantidad,
 } = cartSlice.actions
 
 export default cartSlice.reducer;
