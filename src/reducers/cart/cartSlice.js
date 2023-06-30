@@ -14,8 +14,9 @@ export const cartSlice = createSlice ({
             state.productsList=[...state.productsList,action.payload]; 
            },
            decrementar:(state,action)=>{
+            const productId= action.payload;
             state.totalCont=state.totalCont-1;
-            state.productsList=state.productsList.filter(product=>product.id!==action.payload.id); 
+            state.productsList=state.productsList.filter(product=>product.id!==productId); 
            },   
     },
 })
